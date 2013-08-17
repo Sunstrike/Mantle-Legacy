@@ -1,3 +1,4 @@
+![Mantle logo](https://raw.github.com/Sunstrike/Mantle/master/Mantle.png)
 #Mantle
 **Shared code for Forge mods**
 
