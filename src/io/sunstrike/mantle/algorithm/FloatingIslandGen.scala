@@ -1,6 +1,7 @@
 package io.sunstrike.mantle.algorithm
 
 import scala.util.Random
+
 import io.sunstrike.mantle.lib.Repo._
 
 /*

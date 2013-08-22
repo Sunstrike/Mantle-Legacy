@@ -1,9 +1,9 @@
 package io.sunstrike.mantle
 
-import cpw.mods.fml.common.{FMLCommonHandler, Mod}
-import cpw.mods.fml.common.network.NetworkMod
-import cpw.mods.fml.common.event.{FMLPostInitializationEvent, FMLInitializationEvent, FMLPreInitializationEvent}
 import cpw.mods.fml.common.Mod.EventHandler
+import cpw.mods.fml.common.event.{FMLPostInitializationEvent, FMLInitializationEvent, FMLPreInitializationEvent}
+import cpw.mods.fml.common.network.NetworkMod
+import cpw.mods.fml.common.{FMLCommonHandler, Mod}
 import io.sunstrike.mantle.lib.Repo._
 
 /*
